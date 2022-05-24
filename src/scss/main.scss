@@ -1,2 +1,18 @@
 // This is where you can import other stylesheets or write your scss code
 @import "../../node_modules/bootstrap/scss/bootstrap";
+
+* { margin: 0;
+padding: 0;}
+
+aside ul li {
+    color: white;
+}
+
+h1 { font-size: 3rem;
+text-align: center;}
+
+img {
+    width: 100px;
+    height: 100px;
+border-radius: 50%;
+    }

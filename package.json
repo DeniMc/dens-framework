@@ -1,7 +1,7 @@
 {
   "name": "dens-wireframe",
   "version": "1.0.0",
-  "description": "",
+  "description": "An HTML CSS boilerplate with built-in sass support:",
   "main": "index.html",
   "author": "Denis McArdle",
   "scripts": {
@@ -26,5 +26,13 @@
     "live-server": "latest",
     "npm-run-all": "latest",
     "sass": "latest"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeniMc/dens-framework.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DeniMc/dens-framework/issues"
+  },
+  "homepage": "https://github.com/DeniMc/dens-framework#readme"
 }
